@@ -1,0 +1,15 @@
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\bin\Debug\net6.0\Donguler-ForLoopBreakContinue.exe
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\bin\Debug\net6.0\Donguler-ForLoopBreakContinue.deps.json
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\bin\Debug\net6.0\Donguler-ForLoopBreakContinue.runtimeconfig.json
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\bin\Debug\net6.0\Donguler-ForLoopBreakContinue.dll
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\bin\Debug\net6.0\Donguler-ForLoopBreakContinue.pdb
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\obj\Debug\net6.0\Donguler-ForLoopBreakContinue.csproj.AssemblyReference.cache
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\obj\Debug\net6.0\Donguler-ForLoopBreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\obj\Debug\net6.0\Donguler-ForLoopBreakContinue.AssemblyInfoInputs.cache
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\obj\Debug\net6.0\Donguler-ForLoopBreakContinue.AssemblyInfo.cs
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\obj\Debug\net6.0\Donguler-ForLoopBreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\obj\Debug\net6.0\Donguler-ForLoopBreakContinue.dll
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\obj\Debug\net6.0\refint\Donguler-ForLoopBreakContinue.dll
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\obj\Debug\net6.0\Donguler-ForLoopBreakContinue.pdb
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\obj\Debug\net6.0\Donguler-ForLoopBreakContinue.genruntimeconfig.cache
+C:\Users\ibrahimmelih.ordulu\Dropbox\PC (2)\Desktop\Yazılım\Pratikler\Donguler-ForLoopBreakContinue\obj\Debug\net6.0\ref\Donguler-ForLoopBreakContinue.dll
