@@ -55,4 +55,4 @@ Dosyalarımın içinde yer alan program.cs'ye girilme zahmeti olmaması adına a
             Console.WriteLine(i);
         }
     }
-}
+    }
